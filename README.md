@@ -1,2 +1,2 @@
-# school-matser-apis
+# school-master-apis
 Backend Apis for school master
